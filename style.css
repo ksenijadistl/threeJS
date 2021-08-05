@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+
+body {
+    background-image: url('img/b.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+
+}
+
+nav {
+    margin-left: 40%;
+    margin-top: 15%;
+    text-align: center;
+    
+}
+
+nav ul li {
+    padding: 30px;
+    list-style: none;
+
+}
+nav ul li a{
+    text-decoration: none;
+    color: #000;
+    font-size: 35px;
+    background-color: wheat;
+    padding: 15px 30px;
+    border-radius: 25px;
+    border: 4px solid rgb(158, 104, 59);
+   
+
+
+}
+nav ul li a:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(110, 207, 207);
+    border: 4px solid rgb(0, 114, 114);
+}
+
+nav .start a {
+    text-transform: uppercase;
+    font-size: 55px;
+
+}
