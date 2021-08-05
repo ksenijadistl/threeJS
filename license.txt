@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sad toaster
+* source:	https://sketchfab.com/3d-models/sad-toaster-9b158486dfa1490eb9157966321283a0
+* author:	tasha.lime (https://sketchfab.com/tasha.lime)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sad toaster" (https://sketchfab.com/3d-models/sad-toaster-9b158486dfa1490eb9157966321283a0) by tasha.lime (https://sketchfab.com/tasha.lime) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
